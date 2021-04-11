@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oooyun.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-04-11T09:33:38.905Z</updated>
+    <title>西瓜blog</title>
+    <updated>2021-04-11T09:37:10.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oooyun.github.io"/>
     <link rel="self" href="https://oooyun.github.io/atom.xml"/>
-    <subtitle>西瓜blog</subtitle>
+    <subtitle>前进路上的阴影，来自身后的光明。</subtitle>
     <logo>https://oooyun.github.io/images/avatar.png</logo>
     <icon>https://oooyun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 西瓜blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://oooyun.github.io/post/hello-gridea/</id>
