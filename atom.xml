@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oooyun.github.io</id>
     <title>西瓜blog</title>
-    <updated>2021-04-12T03:15:38.425Z</updated>
+    <updated>2021-04-13T06:32:08.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oooyun.github.io"/>
     <link rel="self" href="https://oooyun.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://oooyun.github.io/images/avatar.png</logo>
     <icon>https://oooyun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 西瓜blog</rights>
+    <entry>
+        <title type="html"><![CDATA[申请eu.org免费域名]]></title>
+        <id>https://oooyun.github.io/post/shen-qing-euorg-mian-fei-yu-ming/</id>
+        <link href="https://oooyun.github.io/post/shen-qing-euorg-mian-fei-yu-ming/">
+        </link>
+        <updated>2021-04-11T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>EU.org是欧盟组织下面的域名，创建于1996年，对于个人和组织都是免费注册申请的。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>EU.org是欧盟组织下面的域名，创建于1996年，对于个人和组织都是免费注册申请的。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电脑软件备份]]></title>
         <id>https://oooyun.github.io/post/rjbf/</id>
